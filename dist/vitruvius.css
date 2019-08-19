@@ -7449,6 +7449,27 @@ p {
 }
 
 /*************************************************************************************
+* Tooltips
+************************************************************************************/
+
+.vp-tooltip {
+  position: absolute;
+  padding: 5px;
+  border-radius: .125rem;
+  border-width: 2px;
+  border-color: #212e35;
+  text-align: center;
+  overflow-wrap: break-word;
+  background-color: #ffffff;
+}
+
+.vp-tooltip-message {
+  flex: 1 1 0%;
+  font-size: 0.75rem;
+  max-width: 280px;
+}
+
+/*************************************************************************************
 * Utility Classes
 ************************************************************************************/
 

@@ -11,7 +11,9 @@ const router = new VueRouter({
     { path: '/containers', component: Containers },
     { path: '/shadows', component: Shadows },
     { path: '/badges', component: Badges },
-    { path: '/cards-surfaces', component: Cards }
+    { path: '/cards-surfaces', component: Cards },
+    { path: '/tooltips', component: Tooltips }
+
   ]
 });
 

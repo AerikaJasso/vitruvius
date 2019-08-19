@@ -1,6 +1,6 @@
 const Toasts = {
   template: /*html*/`
-    <div class="inner-container">
+    <div class="inner-container h-full min-w-full">
       <h2>Toasts</h2>
       <p>Here is how to implement toasts with Vitruvius.</p>
 
