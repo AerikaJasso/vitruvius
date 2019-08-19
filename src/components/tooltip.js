@@ -20,9 +20,9 @@ class Tooltip {
       tooltipElement.addEventListener('mouseover', () => {
         this.getTooltipPosition(messageWrapperElement, tooltipElement);
       });
-      tooltipElement.addEventListener('mouseout', () => {
-        this.resetTooltipMessagePosition(messageWrapperElement);
-      }); 
+      // tooltipElement.addEventListener('mouseout', () => {
+      //   this.resetTooltipMessagePosition(messageWrapperElement);
+      // }); 
     });
   }
 

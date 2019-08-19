@@ -3,7 +3,7 @@ const Tooltips = {
     <div class="inner-container">
       <h2>Tooltips</h2>
       <p>
-        The Vitruivius tooltip provides interactive textual information for elements.
+        The Vitruivius tooltip provides interactive textual information for graphical elements.
       </p>
       <div class="tooltip-vp-button-group v-flex">
 
